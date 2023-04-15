@@ -1,7 +1,7 @@
 # JNMR
 ## Baseline
 
-There is the baseline of JNMR for four reference frames interpolation. The code of JNMR is coming soon.
+There is our proposed baseline of JNMR for four reference frames interpolation. The code of JNMR is coming soon.
 
 ## Acknowledgement
 
