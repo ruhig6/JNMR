@@ -1,1 +1,1 @@
-Please use ```test.py``` for test for video frame interpolation.
+Please use ```test.py``` for test video frame interpolation.
