@@ -1,1 +1,1 @@
-Please use ```train.py``` and ```test.py``` for train and test for video frame interpolation.
+Please use ```test.py``` for test for video frame interpolation.
